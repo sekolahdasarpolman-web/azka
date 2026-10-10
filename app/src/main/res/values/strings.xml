@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TuturInggris</string>
+    <string name="hero_title">Terjemahan, Tata Bahasa Baku &amp; Pengucapan</string>
+    <string name="hero_subtitle">Terjemahkan paragraf ke Bahasa Inggris baku, periksa koreksi grammar, baca panduan fonetik Indonesia &amp; IPA, serta dengarkan pengucapan suara.</string>
+    <string name="nav_translator">Penerjemah</string>
+    <string name="nav_practice">Kalimat &amp; Suara</string>
+    <string name="nav_saved">Riwayat</string>
+    <string name="input_label">Tulis atau Tempel Paragraf (Indonesia / Inggris)</string>
+    <string name="input_placeholder">Contoh: Saya kemarin pergi ke kantor untuk mempresentasikan rencana proyek baru kita kepada manajer, tapi rapatnya ditunda sampai minggu depan...</string>
+    <string name="btn_translate_correct">Terjemahkan &amp; Koreksi Baku</string>
+    <string name="btn_translating">Menganalisis &amp; Menerjemahkan...</string>
+    <string name="btn_clear">Bersihkan</string>
+    <string name="btn_paste">Tempel</string>
+    <string name="btn_copy">Salin Teks</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_saved">Tersimpan</string>
+    <string name="btn_speak_normal">Dengarkan (Normal)</string>
+    <string name="btn_speak_slow">Lambat (0.7x)</string>
+    <string name="btn_stop_speaking">Hentikan Suara</string>
+    <string name="section_english_result">Teks Bahasa Inggris Baku (Standard English)</string>
+    <string name="section_reading_guide">Cara Membaca (Ejaan Pelafalan Indonesia)</string>
+    <string name="section_ipa_guide">Transkripsi Fonetik Internasional (IPA)</string>
+    <string name="section_grammar_improvements">Koreksi &amp; Penyesuaian Tata Bahasa Baku</string>
+    <string name="section_sentence_breakdown">Rincian Per Kalimat &amp; Latihan Pengucapan</string>
+    <string name="section_key_vocabulary">Kata Kunci &amp; Fokus Pelafalan</string>
+    <string name="style_label">Gaya Bahasa Baku:</string>
+    <string name="accent_us">US (Amerika)</string>
+    <string name="accent_uk">UK (Inggris)</string>
+    <string name="sample_paragraphs_label">Contoh Paragraf Siap Uji:</string>
+    <string name="empty_history_title">Belum Ada Riwayat Tersimpan</string>
+    <string name="empty_history_subtitle">Terjemahkan paragraf lalu ketuk tombol Simpan untuk menyimpan hasil terjemahan, koreksi grammar, dan panduan cara membacanya di sini.</string>
+    <string name="security_prototype_notice">Mode Prototipe: Kunci API menggunakan konfigurasi BuildConfig.</string>
+</resources>

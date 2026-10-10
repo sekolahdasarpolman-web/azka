@@ -1,0 +1,6 @@
+{
+  "name": "TuturInggris",
+  "description": "Aplikasi penerjemah paragraf ke bahasa Inggris baku dengan koreksi tata bahasa, panduan cara membaca fonetik, dan pengucapan suara interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
